@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Adlam+Unjoined:wght@500&display=swap');
+body{
+    margin: 0;
+}
+.page_heading{
+    text-align: center;
+    margin-top: 2rem;
+    color: grey;
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+}
+.delete{
+    display: inline-block;
+    color: grey;
+}
